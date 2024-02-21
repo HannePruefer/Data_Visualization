@@ -35,7 +35,7 @@ The Magist Database consisted of 9 connected tables on
 
 ## Folder structure
 /src - contains the SQL script of exploration and transformation, the SQL dump, the SQL schema visualized  
-/docs - Tableau Visualizations, presentation, the csv files for SQL and Tableau
+/docs - presentation, the csv files for SQL and Tableau
 
 
 Authors 
