@@ -1,6 +1,5 @@
 
 # Data visualization with SQL and Tableau with e-commerce data
- A project within the Data Science Bootcamp at WBS Coding School
 
 ## Overview and objective
 
@@ -34,11 +33,11 @@ The Magist Database consisted of 9 connected tables on
 - Tableau
 
 ## Folder structure
-/src - contains the SQL script of exploration and transformation, the SQL dump, the SQL schema visualized  
-/docs - presentation, the csv files for SQL and Tableau
+[/src](https://github.com/HannePruefer/Data_Visualization/tree/main/src) - contains the SQL script of exploration and transformation, the SQL dump, the SQL schema visualized  
+[/docs](https://github.com/HannePruefer/Data_Visualization/tree/main/docs) - presentation, the csv files for SQL and Tableau
 
 
-Authors 
-Matthias Nickola  
-Sweta Bhattarai  
-Hanne Pruefer  
+Co-Authors 
+[Matthias Nickola](https://github.com/MatthiasNickola)
+[Sweta Bhattarai](https://github.com/SwetaBhattarai)  
+ 
