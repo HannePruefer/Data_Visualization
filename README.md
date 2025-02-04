@@ -2,7 +2,7 @@
 # Data visualization with SQL and Tableau with e-commerce data
 
 ## Overview and objective
-
+test change  
 This project shows an analysis of order and customer data from Magist to decide if the company is a good partner for ENIAC entering into the Brazilian market.  
 Eniac is an online marketplace specializing in Apple-compatible accessories. It was founded ten years ago in Spain and has since grown and expanded to other neighboring countries.  
 Eniac is exploring an expansion to the Brazilian market. The problem for Eniac is the lack of knowledge of such a market.
